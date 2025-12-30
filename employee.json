@@ -1,0 +1,22 @@
+{
+  "employee": [
+    {
+      "id": "1",
+      "name": "Pal",
+      "email": "pal@tag97.com",
+      "phone": 9724067226,
+      "gender": "female",
+      "salary": 1000,
+      "city": "Rajkot"
+    },
+    {
+      "id": "2",
+      "name": "Pinkal Patel",
+      "email": "pinkal@tag97.com",
+      "phone": 9724067226,
+      "gender": "female",
+      "salary": 10000,
+      "city": "Ahmedabad"
+    }
+  ]
+}
